@@ -6,6 +6,7 @@ run.py shows an agent learning to guess the color of a ball
 - the agent has access to "memory" of the previous balls' colors included in its context
 
 Results from test run:
+```
 (venv) jacobbeauchamp@Jacobs-MacBook-Pro scott % py run.py
 0
 prompt:  
@@ -189,12 +190,13 @@ prompt:
             Please respond with a SINGLE WORD RESPONSE: the color of the ball
         
 guess: blue, ball_color: red
+```
 
 ## Explanation
 
 this explains how a very basic learning agent with a goal and state of their environment (context) could be modeled
 
-'''
+```
 State:  # (aka metric, a digital representation of an entity)
 - current_time
 - current_state[][]  # a table
@@ -241,5 +243,5 @@ Agent:
 for t in timesteps:
     state.update(t)
     agents.update(state)
-'''
+```
 
