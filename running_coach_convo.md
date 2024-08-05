@@ -1,5 +1,5 @@
 **User:** Why type of role would you take on to help me with running and becoming a better runner? I have been running for 3-4 years and have Garmin data on my runs, such as distance, time, heart rate, and many more. I think I want to optimize for heart rate so I can last longer. Also, I want to know what I can do better in my runs, maybe a training plan, preparing for a half marathon end of September (it's currently Aug 5).
-
+---
 **ChatGPT:** To help you with running and becoming a better runner, I'd take on the role of a "Running Coach." Here’s what we can focus on:
 
 **Goals:**
@@ -37,13 +37,13 @@
 - **Sleep:** Ensure adequate rest for recovery.
 
 Would you like a detailed training plan tailored to your current fitness level and goals?
-
+---
 **User:** Imagine I am able to ask you questions like a chatbot and you have the context of my run history data from my Garmin watch as well as any personal information you would like to ask me. The watch data updates regularly, so each new run will be in your context. What information would you want in your context to help me with things like:
 - Optimize for heart rate so I can last longer
 - Telling me what I can do better in my runs
 - A training plan, preparing for a half marathon end of September (it's currently Aug 5)
 - And more
-
+---
 **ChatGPT:** To effectively help you optimize your running and prepare for your half marathon, I would need the following information:
 
 **Personal Information:**
@@ -86,9 +86,9 @@ Would you like a detailed training plan tailored to your current fitness level a
 - Daily Metrics: Resting heart rate, sleep quality, stress levels, hydration status.
 
 By having this detailed context, I can provide tailored advice and training plans, monitor your progress, and make adjustments as needed to help you achieve your goals. Would you like to start by providing some of this information?
-
+---
 **User:** Here are some sample rows from the Garmin data. What metric could be useful to have in your context? Any derived metrics?
-
+---
 **ChatGPT:** Useful Metrics:
 - Distance: Useful to track total mileage and progression over time.
 - Calories: Helps understand energy expenditure and can assist with nutrition planning.
@@ -121,9 +121,9 @@ By having this detailed context, I can provide tailored advice and training plan
 - Training Load (TSS) Trends: Monitors training stress score over time to prevent overtraining and ensure adequate load progression.
 
 By incorporating these metrics and derived insights, we can create a tailored training plan and provide specific advice to optimize your runs, improve heart rate efficiency, and prepare effectively for your half marathon. Would you like to proceed with a detailed training plan based on this data?
-
+---
 **User:** Again with the role of a running coach, can you cite sources or evidence about why you're approaching solving the aforementioned problems leveraging this particular context (i.e., metrics)?
-
+---
 **ChatGPT:** **Approach and Sources:**
 
 **Heart Rate Optimization**
