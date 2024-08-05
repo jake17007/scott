@@ -1,4 +1,3 @@
-```markdown
 **User:** Why type of role would you take on to help me with running and becoming a better runner? I have been running for 3-4 years and have Garmin data on my runs, such as distance, time, heart rate, and many more. I think I want to optimize for heart rate so I can last longer. Also, I want to know what I can do better in my runs, maybe a training plan, preparing for a half marathon end of September (it's currently Aug 5).
 
 **ChatGPT:** To help you with running and becoming a better runner, I'd take on the role of a "Running Coach." Here’s what we can focus on:
@@ -285,4 +284,3 @@ To optimize your heart rate and improve endurance, focus on training in your aer
 Monitor your heart rate during these runs using your Garmin watch to ensure you're training in the correct zones. Over time, this will help improve your cardiovascular efficiency and endurance.
 
 Would you like more detailed advice or adjustments to this plan?
-```
